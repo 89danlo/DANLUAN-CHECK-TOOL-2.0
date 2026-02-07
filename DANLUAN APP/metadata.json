@@ -1,0 +1,10 @@
+{
+  "name": "DANLUAN Check Tool",
+  "short_name": "Danluan",
+  "description": "Herramienta profesional de verificación eléctrica, cálculo de conductos y diagnóstico de averías con IA.",
+  "display": "standalone",
+  "orientation": "portrait",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
